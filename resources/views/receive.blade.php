@@ -1,5 +1,5 @@
 <div class="left message">
-    <img src="https://png.pngtree.com/png-vector/20191101/ourmid/pngtree-cartoon-color-simple-male-avatar-png-image_1934459.jpg"
+    <img src="https://w7.pngwing.com/pngs/613/636/png-transparent-computer-icons-user-profile-male-avatar-avatar-heroes-logo-black-thumbnail.png"
         alt="Avatar">
     <p>{{ $message }}</p>
 </div>
