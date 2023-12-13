@@ -16,7 +16,6 @@
     <div class="chat">
         <!-- Header -->
         <div class="top">
-            <img src="https://assets.edlin.app/images/rossedlin/03/rossedlin-03-100.jpg" alt="Avatar">
             <div>
                 <p>Yann Boyongo</p>
                 <small>Online</small>
