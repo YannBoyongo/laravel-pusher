@@ -15,5 +15,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', [PusherController::class, 'index']);
-Route::get('/broadcast', [PusherController::class, 'broadcast']);
-Route::get('/receive', [PusherController::class, 'receive']);
+Route::post('/broadcast', [PusherController::class, 'broadcast']);
+Route::post('/receive', [PusherController::class, 'receive']);
